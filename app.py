@@ -3,6 +3,7 @@ import pdfplumber
 import json
 from parse import build_json, build_descriptive_json
 
+
 DESCRIPTIVE_TYPES = ["HISTOPATHOLOGY", "XRAY", "ULTRASOUND", "ECHO"]
 
 st.title("Diagnostic Report PDF → JSON Converter")
