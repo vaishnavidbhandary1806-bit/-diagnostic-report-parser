@@ -2,7 +2,6 @@ import pdfplumber
 import sys
 import os
 
-
 def extract_raw_text(pdf_path: str) -> str:
     all_text = []
     with pdfplumber.open(pdf_path) as pdf:
