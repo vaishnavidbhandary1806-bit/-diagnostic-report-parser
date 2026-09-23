@@ -56,4 +56,4 @@ streamlit run app.py
 ## Scope
 
 - Text-based PDFs only
-- Scanned PDFs and OCR are future enhancements
+- Scanned PDFs and OCRy are future enhancements
