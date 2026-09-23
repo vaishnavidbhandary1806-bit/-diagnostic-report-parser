@@ -1,7 +1,6 @@
 import re
 import json
 
-
 def parse_patient_details(text):
     patient = {}
 
